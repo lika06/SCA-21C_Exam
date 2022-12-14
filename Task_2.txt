@@ -1,0 +1,1 @@
+Git revert (откат) - it is used for cancel changes.It's important to understand that it does not delete any data in this process: instead, Git will create new changes with the opposite effect - and thereby undo the specified old commit.
